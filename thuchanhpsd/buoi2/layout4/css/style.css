@@ -1,0 +1,16 @@
+*{margin: 0px;
+padding: 0px;}
+#container{min-width: 960px;}
+.wp{margin:0px auto; width:960px;}
+
+
+#header,#footer{background-color: #CDEFFA;
+	border:1px solid #3B3938;
+
+height: 150px;}
+#content .wp{min-height: 500px;
+background: #E3E3E3;
+border-right: 1px solid #3B3938;
+border-left: 1px solid #3B3938; }
+
+

@@ -1,0 +1,35 @@
+.wp{margin:0px auto;width:1200px;}
+body{font-family: Roboto; font-size: 13px;line-height: 24px; }
+.f_left{float: left;}
+.f_right{float: right;}
+.center{text-align: center;}
+#wrapper{background: #e9eaed;}
+/*style header*/
+#header,#footer{background: #263545;}
+#header{padding: 30px 0px;}
+#header a{color: #ffffff;}
+#logo{font-size: 20px;}
+
+#main_menu li{float: left;}
+#main_menu li a{padding:8px 15px ;font-size: 14px;text-transform: uppercase;}
+#main_menu li a.last_a{padding-right: 0px;}
+/*end style header*/
+/*style content*/
+#content{margin-top:20px;margin-bottom:20px;background: #ffffff;text-align: justify;
+	padding: 50px 60px;}
+.title_content{font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;}
+.intro_img{padding: 40px 0px;}
+.intro_img p{margin-top:20px;font-style: italic;}
+
+
+/*end content*/
+/*style content*/
+#footer{color:#ffffff;}
+.sub_title{padding:10px 0px;font-size: 18px;font-weight: normal;}
+.right_foot{text-align: right;}
+.right_foot a{color: #e3e3e3;}
+#footer .top{padding: 38px 63px;}
+.copyright{background: #111a22;color:#e8e8e8;padding: 16px 0px;}
+/*end content*/

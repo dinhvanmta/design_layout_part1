@@ -1,0 +1,42 @@
+
+body{font-family: Roboto;line-height: 22px; font-size: 13px;}
+#wrapper{background: #e9eaed;}
+#header,#footer{background: #263545;}
+.wp_inner{width: 1200px; margin: 0px auto;}
+.fl_right{float: right;}
+.fl_left{float: left;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+/*style header*/
+#header{
+	padding: 30px 0px 23px 0px;
+}
+#header a{color: #fff;}
+#logo{font-size:20px; font-family: Roboto; }
+#main_menu li{float: left;}
+#main_menu li a{padding: 8px 15px;text-transform: uppercase;font-size: 14px;
+}
+/*style content*/
+#content{margin-top:20px;margin-bottom: 20px;
+background: #fff;
+padding: 50px 60px;
+text-align: justify;}
+#content .title_page{font-size: 20px; margin-bottom:20px;  }
+.intro_img p{padding:20px 0px;font-style: italic;}
+/*style footer*/
+#footer .top{
+	padding: 70px 60px;
+   
+
+}
+#footer{color: #fff;}
+#footer h3{
+	padding: 10px 0px;
+	font-size: 18px;
+	
+	font-weight: normal;
+	
+
+}
+#footer .list_course li a{color: #e3e3e3;}
+#footer .copyright{padding:20px 0px; background:#111a22 ;color: #e8e8e8; }

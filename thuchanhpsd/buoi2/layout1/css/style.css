@@ -1,0 +1,8 @@
+*{margin: 0px;
+padding: 0px;}
+#container{margin:0px auto; width:960px;border: 1px solid #3B3938;}
+
+#content{background:#E3E3E3 ;width:960px;height: 500px;border-top:1px solid #3B3938; border-bottom: 1px solid #3B3938 ;}
+#header,#footer{background-color: #CDEFFA;
+width:960px;
+height: 150px;}
